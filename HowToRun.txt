@@ -1,0 +1,5 @@
+How to run:
+_ activate min_ds-env
+_ open jupyter notebook
+_ open file Pokemon.ipynb
+_ Select Restart & Run All
